@@ -33,6 +33,10 @@ For detailed instructions on how to use Easy Notes Hub, please refer to the [doc
 
 We welcome contributions from the community! If you have any ideas for improvement or would like to report a bug, please open an issue or submit a pull request.
 
+##Gihub Page Link
+
+ https://asadkhan911.github.io/EasyNotesHub-using-javascript/
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
