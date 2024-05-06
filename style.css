@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+}
+
+.card
+{
+    background-color: black;
+}
+
+.textArea
+{
+    background-color: black;
+    border: 4px solid white;
+}
+.textArea:not(:focus)
+{
+    color: white;
+}
