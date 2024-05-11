@@ -31,7 +31,7 @@ For detailed instructions on how to use Easy Notes Hub, please refer to the [doc
 
 ## Contributing
 
-We welcome contributions from the community! If you have any ideas for improvement or would like to report a bug, please open an issue or submit a pull request.
+We welcome contributions from the community!! If you have any ideas for improvement or would like to report a bug, please open an issue or submit a pull request.
 
 ## Gihub Page Link
 
