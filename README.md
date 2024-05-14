@@ -39,7 +39,7 @@ We welcome contributions from the community!! If you have any ideas for improvem
 
 ## License.
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)..
 
 ## Contact
 
