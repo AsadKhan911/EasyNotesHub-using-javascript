@@ -37,7 +37,7 @@ We welcome contributions from the community!! If you have any ideas for improvem
 
  https://asadkhan911.github.io/EasyNotesHub-using-javascript/
 
-## License.
+## License!
 
 This project is licensed under the [MIT License](LICENSE)..
 
