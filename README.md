@@ -41,6 +41,6 @@ We welcome contributions from the community!! If you have any ideas for improvem
 
 This project is licensed under the [MIT License](LICENSE)..
 
-## Contact
+## Contact 📞
 
 If you have any questions or feedback, feel free to reach out to us at [contact@easynoteshub.com](mailto:contact@easynoteshub.com).
