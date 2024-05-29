@@ -13,7 +13,7 @@ Easy Notes Hub is a simple and intuitive platform designed to streamline your no
 - **Handy Bookmarking Functionality:** Bookmark your most important or frequently accessed notes with a single click.
 - **Convenient Note Deletion:** Easily delete unwanted notes to keep your workspace clutter-free.
 
-## Screenshots
+## Screenshotss
 
 ![Screenshot 1](UI.png)
 *Caption for Screenshot 1*
