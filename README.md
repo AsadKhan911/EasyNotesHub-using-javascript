@@ -21,7 +21,7 @@ Easy Notes Hub is a simple and intuitive platform designed to streamline your no
 ![Screenshot 2](bookMarkSS.png)
 *Caption for Screenshot 2*
 
-## Getting Started!!
+## Getting Started!!!
 
 To get started with Easy Notes Hub, simply clone the repository to your local machine and follow the installation instructions in the [documentation](docs/installation.md).
 
