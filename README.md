@@ -29,7 +29,7 @@ To get started with Easy Notes Hub, simply clone the repository to your local ma
 
 For detailed instructions on how to use Easy Notes Hub, please refer to the [documentation](docs/README.md).
 
-## Contributing !!
+## Contributing !!!
 
 We welcome contributions from the community!! If you have any ideas for improvement or would like to report a bug, please open an issue or submit a pull request..
 
