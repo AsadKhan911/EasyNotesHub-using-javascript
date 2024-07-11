@@ -43,5 +43,5 @@ This project is licensed under the [MIT License](LICENSE)..
 
 ## Contact 📞
 
-If you have any questions or feedback, feel free to reach out to us at [contact@easynoteshub.com](mailto:contact@easynoteshub.com).
-------------------------
+If you have any questions or feedback, feel free to reach out to us at [contact@easynoteshub.com](mailto:asadlinkinpark9@gmail.com).
+-------------------------
