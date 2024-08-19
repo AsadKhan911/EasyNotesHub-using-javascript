@@ -1,4 +1,4 @@
-# Easy Notes Hub
+# Easy Notes Hub JavaScript
 
 Welcome to Easy Notes Hub, your go-to destination for effortless note-taking and organization.
 
